@@ -26,3 +26,7 @@
 pip install -r requirements.txt
 ```
 
+## Files
+
+`basic_chatbot_SB.ipynb` : has the chatbot
+
