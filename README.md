@@ -28,5 +28,5 @@ pip install -r requirements.txt
 
 ## Files
 
-`basic_chatbot_SB.ipynb` : has the chatbot
+`basic_chatbot_SB.ipynb` : has the chatbot with multiple functionalities such as reading from a file of clinical cases and memory of past conversations
 
