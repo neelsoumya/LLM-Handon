@@ -7,6 +7,8 @@ Approach:
 
 
 Format the patient information into a standardized file format
+
+
 Upload Data (pdf)
 
 
@@ -14,6 +16,8 @@ Upload Data (pdf)
 
 
 Let the LLM generate a fake personality for the patient
+
+
 Provide the [data, personality, instructions] as context to the LLM 
 
 3 Conversation
@@ -25,5 +29,9 @@ Set up the Conversation
 
 
 Let the LLM generate a fake personality for the patient
+
+
 Provide new context to the LLM to be an examiner that judges the conversation history and compares it to the patient file
+
+
 Let the LLM summarize the Conversation and identify the correct and wrong 
