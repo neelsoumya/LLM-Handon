@@ -18,3 +18,11 @@
 # 4. Summary
 # - Provide new context to the LLM to be an examiner that judges the conversation history 
 # - the LLM summarize the Conversation and identify the correct and wrong 
+
+
+## Installation
+
+```R
+pip install -r requirements.txt
+```
+
