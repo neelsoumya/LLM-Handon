@@ -1,6 +1,11 @@
 # LLM-Handon
 
 
+## Introduction
+
+Medical AI chatbot hackathon
+
+
 # Approach:
 
 # 1. Data step
